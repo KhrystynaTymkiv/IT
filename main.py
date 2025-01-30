@@ -21,3 +21,5 @@ width = float(input("Введіть ширину прямокутника: "))
 height = float(input("Введіть висоту прямокутника: "))
 area = rectangle_area(width, height)
 print("Площа прямокутника:", area)
+
+print("Площа прямокутника:", height)
